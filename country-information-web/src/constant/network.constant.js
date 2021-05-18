@@ -1,5 +1,4 @@
 const NetworkConstant = {
-  //baseURL: "http://localhost:8080",
-  baseURL: "https://heroku-country-service.herokuapp.com",
+  baseURL: "http://localhost:8080",
 };
 export default NetworkConstant.baseURL;

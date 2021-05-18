@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.io.IOException;
 
 @RestController
-@CrossOrigin(origins = "https://heroku-country-web.herokuapp.com")
+@CrossOrigin(origins = "http://localhost:3000")
 public class CountryInformationController {
 
     @Autowired

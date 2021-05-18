@@ -4,7 +4,7 @@ import { Navbar, NavbarBrand } from "reactstrap";
 const CountryHeader = () => {
   return (
     <Navbar>
-      <NavbarBrand href="/">Country</NavbarBrand>
+      <NavbarBrand href="/">Countries</NavbarBrand>
     </Navbar>
   );
 };

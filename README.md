@@ -45,11 +45,11 @@
 -- Where hel-heroku-client is remote for
 https://git.heroku.com/heroku-country-web.git
 
--- URL --> https://heroku-country-information-web.herokuapp.com/
+-- URL --> https://heroku-country-web.herokuapp.com/
 
 ## network.constants holds baseURL
 
--- baseURL: "https://heroku-country-information-service.herokuapp.com/"
+-- baseURL: "https://heroku-country-service.herokuapp.com/"
 
 ### Server
 
