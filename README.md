@@ -60,8 +60,8 @@ https://git.heroku.com/heroku-country-web.git
 -- Where heroku-country-information-service is remote for
 https://git.heroku.com/heroku-country-service.git
 
--- URL --> https://heroku-country-information-service.herokuapp.com/locations
+-- URL --> https://heroku-country-service.herokuapp.com/countries
 
 ## For CORS handling Added following to LocationController
 
-@CrossOrigin(origins = "https://heroku-country-information-web.herokuapp.com")
+@CrossOrigin(origins = "https://heroku-country-web.herokuapp.com")
